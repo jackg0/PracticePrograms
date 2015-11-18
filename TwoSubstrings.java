@@ -2,6 +2,7 @@ import java.util.Scanner;
 /**
  * 
  * @author Jack Geissinger github: jackg0
+ * @version 1.0
  * Problem URL: http://codeforces.com/problemset/problem/550/A
  * Two Substrings using DP.
  */
